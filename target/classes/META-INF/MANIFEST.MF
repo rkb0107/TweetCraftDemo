@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TweeCraftDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rakesh.bharati
+Implementation-Vendor-Id: com.intuit.craft
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TweeCraftDemo
+Created-By: Maven Integration for Eclipse
+
